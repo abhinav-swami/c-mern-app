@@ -1,0 +1,46 @@
+.homepage {
+  margin: 10% 15% 0 15%;
+  background-color: rgba(47, 79, 79, 0.95);
+  text-align: center;
+  color: white;
+  border-radius: 15px;
+}
+.homepage a {
+  text-decoration: none;
+}
+.homepage button {
+  font-size: 18px;
+  width: 15%;
+  background-color: rgba(47, 79, 79);
+  color: gainsboro;
+  padding: 2px;
+  border-radius: 5px;
+  border: 1px solid;
+}
+button:hover {
+  background: #ddd;
+  color: black;
+}
+.show-card {
+  margin: 10% 15% 0 15%;
+  background-color: rgba(48, 80, 80, 0.9);
+  text-align: center;
+  color: white;
+  border-radius: 15px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid 305050e6;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #305050cc;
+}
